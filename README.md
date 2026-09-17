@@ -68,18 +68,12 @@
 ## $ns run
  
 # OUTPUT:
+<img width="857" height="1233" alt="image" src="https://github.com/user-attachments/assets/e5b8e4c6-ff5e-4292-aa30-56cf675a9b16" />
 
 
 
 
 
-## MARK ALLOCATION	TOTAL MARKS	MARKS OBTAINED
-## PERFORMANCE	20	
-## OBSERVATION	20	
-## RECORD	20	
-## OUTPUT	20	
-## VIVA	20	
-## TOTAL	100	
 
 
 
